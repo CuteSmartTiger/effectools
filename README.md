@@ -7,3 +7,8 @@ more effect ， better life
 ## forward message
 
 免费开源的，功能非常多，可以很方便的转发短信，邮件，微信，QQ，钉钉，https://github.com/pppscn/SmsForwarder
+
+
+
+
+pyinstaller --noconfirm --onefile --windowed batchModifyFilesName.py
